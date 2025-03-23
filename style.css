@@ -1,0 +1,44 @@
+body {
+    font-family:Georgia, Tahoma, Verdana;
+    font-size: 100%;
+  }
+  
+
+header {
+background-color: #FFFFFF;
+}
+
+nav {
+background-color: #CBC3E3;
+text-align: right;
+
+}
+
+
+main {
+    background-color:#CBC3E3;
+    font-size:100%;
+    }
+
+footer {
+    background-color: #CBC3E3;
+    font-size: 80%;
+}
+
+li { 
+    display:inline;
+    text-align:right;
+
+}
+
+h1 {
+    text-align: center;
+    font-family: Georgia;
+    color:black;
+    background-color: #BDB5D5;
+}
+
+p {
+ line-height: 125%;
+}
+
